@@ -34,3 +34,16 @@ To compile the program, follow these steps:
 ```bash
    cd /path/to/project_directory
 ```
+3. Compile the program using the provided Makefile:
+```bash
+   make
+```
+This will create the tcp_listen executable in the bin directory.
+
+## How to Run
+
+To run the web server, use the following command:
+
+```bash
+   ./bin/tcp_listen
+```
