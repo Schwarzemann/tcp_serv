@@ -8,7 +8,6 @@ This is a simple TCP listener implemented in C that listens on port 80 and logs 
 - [How to Compile](#how-to-compile)
 - [How to Run](#how-to-run)
 - [Usage](#usage)
-- [License](#license)
 
 ## Features
 
