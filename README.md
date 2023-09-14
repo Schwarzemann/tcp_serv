@@ -47,3 +47,9 @@ To run the web server, use the following command:
 ```bash
    ./bin/tcp_listen
 ```
+The server will start listening on port 80. You may need superuser/root privileges to bind to port 80.
+
+## Usage
+1. The server will listen on port 80 for incoming connections.
+2. Access logs will be written to the logs/access.log file in the project directory.
+3. For a complete web server, you can extend the program to handle HTTP requests, serve web pages, and implement more advanced features.
