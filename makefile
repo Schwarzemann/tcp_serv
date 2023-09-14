@@ -14,7 +14,7 @@ SOURCES = $(wildcard $(SRCDIR)/*.c)
 OBJECTS = $(patsubst $(SRCDIR)/%.c, $(OBJDIR)/%.o, $(SOURCES))
 
 # Executable name
-TARGET = $(BINDIR)/mywebserver
+TARGET = $(BINDIR)/tcp_listen
 
 all: $(TARGET)
 
