@@ -1,6 +1,6 @@
-# TCP Listener
+# tcp_listen
 
-This is a simple TCP listener implemented in C that listens on port 80 and logs client access to a text file.
+A simple program that listens on default TCP port and logs activity.
 
 ## Table of Contents
 - [Features](#features)
